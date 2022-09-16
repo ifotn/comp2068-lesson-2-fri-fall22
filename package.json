@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ifotn/comp2068-lesson-2-fri-fall22#readme",
   "dependencies": {
+    "accounting": "^0.4.1",
     "weather-js": "^2.0.0"
   }
 }
